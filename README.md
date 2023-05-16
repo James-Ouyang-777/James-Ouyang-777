@@ -1,4 +1,5 @@
 ### Hi there 👋
+- ⚡ Fun fact: grass is green 
 
 <!--
 **James-Ouyang-777/James-Ouyang-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
